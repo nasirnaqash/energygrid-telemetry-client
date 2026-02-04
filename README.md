@@ -10,7 +10,6 @@ A robust Python client for fetching real-time telemetry from 500 solar inverters
 ├── test_energy_grid.py     # Unit tests
 ├── requirements.txt        # Python dependencies
 ├── README.md               # This file
-├── instructions.md         # Original assignment
 └── mock-api/               # Mock API server
     ├── server.js
     ├── package.json
